@@ -1,0 +1,12 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://insideframe.com"
+    },
+    {
+      "source": "/:rest*",
+      "destination": "https://insideframe.com"
+    }
+  ]
+}
