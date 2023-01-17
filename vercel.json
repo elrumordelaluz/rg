@@ -2,11 +2,11 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://insideframe.com"
+      "destination": "https://insideframe.it"
     },
     {
       "source": "/:rest*",
-      "destination": "https://insideframe.com"
+      "destination": "https://insideframe.it"
     }
   ]
 }
