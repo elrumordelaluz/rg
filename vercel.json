@@ -8,5 +8,8 @@
       "source": "/:rest*",
       "destination": "https://insideframe.it"
     }
-  ]
+  ],
+  "github": {
+    "silent": true
+  }
 }
